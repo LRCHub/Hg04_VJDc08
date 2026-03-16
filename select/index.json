@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "School Boy（feat. もちひよこ）",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-16T10:48:36.279610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "School Boy (feat. MochiHiyoko)",
+      "artist": "PeanutsKun",
+      "has_synced": true,
+      "path": "select/01_School_Boy_(feat._MochiHiyoko)_PeanutsKun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "School Boy (feat. もちひよこ)",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_School_Boy_(feat._もちひよこ)_ピーナッツくん.txt"
+    }
+  ]
+}
